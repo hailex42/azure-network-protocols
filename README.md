@@ -98,4 +98,15 @@ Stop the ping activity
 
 </p>
 <h3>- Observe SSH, DHCP, DNS, and RDP Traffic</h3>
+![image](https://github.com/user-attachments/assets/d5474564-98c5-49cf-b423-0cd6d40982e8)
+<p>(Observe SSH Traffic)
+Log back into the windows-vm
+Back in Wireshark, start a packet capture up
+Filter for SSH traffic only
+From your Windows 10 VM, “SSH into” your Ubuntu Virtual Machine (via its private IP address)
+Open PowerShell, and type: ssh labuser@<private IP address>
+Type commands (username, pwd, etc) into the linux SSH connection and observe SSH traffic spam in WireShark
+Exit the SSH connection by typing ‘exit’ and pressing [Enter]
+</p>
+
 <br />
