@@ -28,7 +28,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Create Virtual Machines
 - Observe ICMP Traffic
 - Configuring a Firewall
-- Observe SSH, DHCP, DNS, and RDP traffic
+- Observe SSH, DHCP, DNS, and RDP Traffic
 
 <h2>Actions and Observations</h2>
 
@@ -97,4 +97,5 @@ Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command
 Stop the ping activity
 
 </p>
+<h3>- Observe SSH, DHCP, DNS, and RDP Traffic</h3>
 <br />
