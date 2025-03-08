@@ -50,10 +50,13 @@ While creating the VM, allow it to create a new Virtual Network (Vnet) and Subne
 ![image](https://github.com/user-attachments/assets/15ff4751-9af5-4613-8a75-2e3c69e82488)
 
 <p>
-Create a Linux (Ubuntu) VM
+Create a Linux (Ubuntu) VM.
+ 
 While creating the VM, select the previously created Resource Group and Virtual Network—the Virtual Network MUST BE THE SAME.
+
 Authentication type: Username/Password
-Ensure both VMs are in the same Virtual Network / Subnet
+
+Ensure both VMs are in the same Virtual Network / Subnet.
 
 </p>
 <br />
