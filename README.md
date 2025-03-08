@@ -83,6 +83,12 @@ Observe ping requests and replies within WireShark.
 ![image](https://github.com/user-attachments/assets/4ac13b13-6e33-4ab2-86f3-630d1ca4ddae)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM
+Open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic
+Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity
+Re-enable ICMP traffic for the Network Security Group your Ubuntu VM is
+Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity (should start working)
+Stop the ping activity
+
 </p>
 <br />
