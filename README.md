@@ -35,9 +35,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h3>Create Virtual Machines</h3>
 
 ![image](https://github.com/user-attachments/assets/d6287013-d59a-47b5-9a9e-b18f2bf93710)
-
+ 
 <p>
-Part 1
 https://portal.azure.com/
 (Create our Virtual Machines)
 Create a Resource Group
