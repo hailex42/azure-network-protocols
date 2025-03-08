@@ -121,5 +121,8 @@ Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 ![image](https://github.com/user-attachments/assets/43a06106-68ee-4b89-b0e0-c96a192f33ab)
 
 <h3>Observe DNS Traffic</h3>
+
+![image](https://github.com/user-attachments/assets/49da3135-4e1f-49c0-a63b-671ed14fedda)
+
 <h3>Observe RDP Traffic</h3>
 <br />
