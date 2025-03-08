@@ -117,6 +117,9 @@ Type commands (username, pwd, etc) into the linux SSH connection and observe SSH
 Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 </p>
 <h3>Observe DHCP Traffic</h3>
+
+![image](https://github.com/user-attachments/assets/43a06106-68ee-4b89-b0e0-c96a192f33ab)
+
 <h3>Observe DNS Traffic</h3>
 <h3>Observe RDP Traffic</h3>
 <br />
